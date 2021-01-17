@@ -1,5 +1,5 @@
 # vue-mynews
-
+通过vue框架实现一个简单的新闻查看页面
 ## Project setup
 ```
 npm install
